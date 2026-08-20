@@ -1,6 +1,6 @@
 {
-    "installer_url":  "https://github.com/ShiBaBeloved/DailySystemReport/releases/download/v1.1.7/DailySystemReport_Setup_v1.1.7.exe",
-    "title":  "Hệ Thống Báo Cáo Partron v1.1.7",
-    "version":  "1.1.7",
+    "installer_url":  "https://github.com/ShiBaBeloved/DailySystemReport/releases/download/v1.1.8/DailySystemReport_Setup_v1.1.8.exe",
+    "title":  "Hệ Thống Báo Cáo Partron v1.1.8",
+    "version":  "1.1.8",
     "changelog":  "• Tự động cập nhật phiên bản mới từ GitHub.\n• Tối ưu hóa tính năng và sửa lỗi hệ thống.\n• Tự động đổi icon theo giao diện Dark Mode / Light Mode của Windows."
 }
